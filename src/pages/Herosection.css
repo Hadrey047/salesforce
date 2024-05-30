@@ -1,0 +1,77 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* color: white; */
+}
+.hero-container {
+    background-image:url("../images/fast.jpeg");
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:right;
+}
+
+.hero-container2 {
+    background-image:url("../images/fast.jpeg");
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:right;
+    position: relative, no-repeat;
+}
+
+.hero-text {
+    padding-top: 20%;
+    flex-direction: column;
+    padding-right: 40px;
+    color: white;
+    font-size: larger;
+}
+
+.s-hero {
+    color: rgba(5, 62, 184, 0.97);
+}
+
+.btn {
+    background-color: rgba(5, 62, 184, 0.97);
+    color: white;
+    width:50%;
+
+}
+
+.about-me {
+    padding-top: 15%;
+    padding-bottom: 15%;
+    flex-direction: column;
+    padding-right: 70%;
+    color: white;
+    font-size: larger;
+}
+
+.section4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10%;
+    padding-right: 10%
+
+}
+
+.section-6 {
+    background-image:url("../images/fast.jpeg");
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    font-size: larger;
+    align-items: center;
+    justify-content:right
+}
+
+.section6-text {
+    padding-top: 20%;
+    flex-direction: column;
+    padding-right: 34%;
+    color: white;
+}
+

@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    justify-content:space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer h1 {
+    align-items: center;
+}
